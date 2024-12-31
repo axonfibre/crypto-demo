@@ -1,4 +1,4 @@
-Print the Merkle tree (as described in the IOTA protocol RFC-0012 for Chrysalis part 2) of several random message IDs on the console.
+Print the Merkle tree (as described in the Axon protocol RFC-0012 for Chrysalis part 2) of several random message IDs on the console.
 
 ```
 ==> input message ids

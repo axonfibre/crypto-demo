@@ -1,7 +1,7 @@
 // Package ed25519 implements the Ed25519 signature algorithm.
 //
 // These functions are compatible with the particular validation rules around
-// edge cases described in IOTA protocol RFC-0028.
+// edge cases described in Axon protocol RFC-0028.
 // This package is a drop-in replacement for "crypto/ed25519".
 package ed25519
 

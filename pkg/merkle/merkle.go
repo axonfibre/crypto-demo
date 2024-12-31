@@ -15,7 +15,7 @@ const (
 	NodeHashPrefix = 1
 )
 
-// Hasher implements the hashing algorithm described in the IOTA protocol RFC-12.
+// Hasher implements the hashing algorithm described in the Axon protocol RFC-12.
 type Hasher struct {
 	hash crypto.Hash
 }

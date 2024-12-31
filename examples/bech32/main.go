@@ -16,7 +16,7 @@ import (
 
 // default values
 var (
-	defPrefix    = address.IOTAMainnet
+	defPrefix    = address.AxonMainnet
 	defVersion   = address.Ed25519
 	defPublicKey = func() ed25519.PublicKey {
 		pub, _, _ := ed25519.GenerateKey(rand.Reader)
@@ -35,7 +35,7 @@ var (
 	keyString     = encode.String("key", hex.EncodeToString(defPublicKey), "hex-encoded public key / output ID")
 
 	decode        = flag.NewFlagSet("decode", flag.ExitOnError)
-	addressString = decode.String("address", defBech32, "Bech32 encoded IOTA address")
+	addressString = decode.String("address", defBech32, "Bech32 encoded Axon address")
 )
 
 func main() {

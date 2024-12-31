@@ -1,11 +1,11 @@
 Encode and decode address using the bech32 address scheme.
 
 ```
-go run examples/bech32/main.go decode -address iota1qrhacyfwlcnzkvzteumekfkrrwks98mpdm37cj4xx3drvmjvnep6xqgyzyx
+go run examples/bech32/main.go decode -address axon1qrhacyfwlcnzkvzteumekfkrrwks98mpdm37cj4xx3drvmjvnep6xqgyzyx
 
 ==> Bech32 Address Decoder
-  bech32 (64-char):     iota1qrhacyfwlcnzkvzteumekfkrrwks98mpdm37cj4xx3drvmjvnep6xqgyzyx
-  network (4-char):     iota
+  bech32 (64-char):     axon1qrhacyfwlcnzkvzteumekfkrrwks98mpdm37cj4xx3drvmjvnep6xqgyzyx
+  network (4-char):     axon
   version (1-byte):     0 (Ed25519)
   hash (64-char):       efdc112efe262b304bcf379b26c31bad029f616ee3ec4aa6345a366e4c9e43a3
   addr bytes (33-byte): 00efdc112efe262b304bcf379b26c31bad029f616ee3ec4aa6345a366e4c9e43a3

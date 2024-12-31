@@ -31,10 +31,10 @@ type Prefix int
 
 // Network prefix options.
 const (
-	IOTAMainnet Prefix = iota
-	IOTADevnet
-	ShimmerMainnet
-	ShimmerDevnet
+	AxonMainnet Prefix = iota
+	AxonDevnet
+	SpikeMainnet
+	SpikeDevnet
 )
 
 var hrpStrings = [...]string{"iota", "atoi", "smr", "rms"}
