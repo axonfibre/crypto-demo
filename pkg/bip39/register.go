@@ -3,7 +3,7 @@ package bip39
 import (
 	"fmt"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip39/wordlist"
+	"github.com/axonfibre/crypto-demo/pkg/bip39/wordlist"
 )
 
 var wordLists = make(map[string]func() wordlist.List)

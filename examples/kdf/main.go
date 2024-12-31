@@ -7,11 +7,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32/address"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip32path"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip39"
-	"github.com/iotaledger/iota-crypto-demo/pkg/slip10"
-	"github.com/iotaledger/iota-crypto-demo/pkg/slip10/eddsa"
+	"github.com/axonfibre/crypto-demo/pkg/bech32/address"
+	"github.com/axonfibre/crypto-demo/pkg/bip32path"
+	"github.com/axonfibre/crypto-demo/pkg/bip39"
+	"github.com/axonfibre/crypto-demo/pkg/slip10"
+	"github.com/axonfibre/crypto-demo/pkg/slip10/eddsa"
 )
 
 var (

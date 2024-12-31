@@ -8,7 +8,7 @@ import (
 
 	"filippo.io/edwards25519"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
 )
 
 const (

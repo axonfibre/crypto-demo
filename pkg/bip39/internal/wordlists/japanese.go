@@ -1,7 +1,7 @@
 package wordlists
 
 import (
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip39/wordlist"
+	"github.com/axonfibre/crypto-demo/pkg/bip39/wordlist"
 )
 
 // Japanese returns the  mnemonic word list for the Japanese language taken from the BIP-39 specification.

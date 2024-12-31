@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/iotaledger/iota-crypto-demo/internal/hexutil"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32/address"
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/internal/hexutil"
+	"github.com/axonfibre/crypto-demo/pkg/bech32/address"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
 )
 
 type testCase struct {

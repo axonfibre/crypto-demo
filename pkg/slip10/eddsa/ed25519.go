@@ -3,8 +3,8 @@ package eddsa
 import (
 	"errors"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
-	"github.com/iotaledger/iota-crypto-demo/pkg/slip10"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/pkg/slip10"
 )
 
 // ErrNotHardened is returned when the input led to an invalid private or public key.

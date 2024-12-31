@@ -14,7 +14,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
 )
 
 var nullSeed = make([]byte, ed25519.SeedSize)

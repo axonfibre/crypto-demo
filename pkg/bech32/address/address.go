@@ -8,8 +8,8 @@ import (
 
 	"golang.org/x/crypto/blake2b"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32"
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/pkg/bech32"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/iotaledger/iota-crypto-demo/internal/hexutil"
+	"github.com/axonfibre/crypto-demo/internal/hexutil"
 )
 
 func TestNewPointFromCanonicalBytes(t *testing.T) {

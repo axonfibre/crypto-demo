@@ -25,8 +25,8 @@ import (
 	"golang.org/x/crypto/pbkdf2"
 	"golang.org/x/text/unicode/norm"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip39/internal/wordlists"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bip39/wordlist"
+	"github.com/axonfibre/crypto-demo/pkg/bip39/internal/wordlists"
+	"github.com/axonfibre/crypto-demo/pkg/bip39/wordlist"
 )
 
 var (

@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32/internal/base32"
+	"github.com/axonfibre/crypto-demo/pkg/bech32/internal/base32"
 )
 
 const (

@@ -8,10 +8,10 @@ import (
 	"os"
 	"strings"
 
-	"github.com/iotaledger/iota-crypto-demo/internal/rand"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32"
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32/address"
-	"github.com/iotaledger/iota-crypto-demo/pkg/ed25519"
+	"github.com/axonfibre/crypto-demo/internal/rand"
+	"github.com/axonfibre/crypto-demo/pkg/bech32"
+	"github.com/axonfibre/crypto-demo/pkg/bech32/address"
+	"github.com/axonfibre/crypto-demo/pkg/ed25519"
 )
 
 // default values

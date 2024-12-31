@@ -9,7 +9,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/iotaledger/iota-crypto-demo/pkg/bech32/internal/base32"
+	"github.com/axonfibre/crypto-demo/pkg/bech32/internal/base32"
 )
 
 func TestEncode(t *testing.T) {

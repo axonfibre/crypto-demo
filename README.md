@@ -1,6 +1,6 @@
 # Crypto demo
 
-This repository contains Go example implementations related to several cryptographic constructs used in various DLTs.
+This repository contains Go examples related to cryptographic constructs used in the Axon Fibre.
 
 ## Packages
 
